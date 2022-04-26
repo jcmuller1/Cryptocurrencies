@@ -1,2 +1,3 @@
 # Cryptocurrencies
-Module 18 Challenge
+
+The purpose of this challenge was to analyze cryptocurrencies using unsupervised machine learning methods.
